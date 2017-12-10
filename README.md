@@ -1,6 +1,8 @@
 # Alexa getTask
 ![Alexa logo](https://images-na.ssl-images-amazon.com/images/I/313cnZULc9L.png)
 
+[See Git Repository](https://github.com/benjy344/alexa_getTask)
+
 I try the new Amazon home bot Alexa and the Lambda functions
 
 and i tried to create a simple function that aims to list tasks according to a given day.
@@ -207,3 +209,4 @@ Here I have to make sure that my function get the `Kit Alexa Skill` and can save
 Finaly I can test my skill with the `Service Simulator` and appreciate the Alexa's anwser 😄
 
 ![Alexa testing](https://raw.githubusercontent.com/benjy344/alexa_getTask/master/img/img2.png)
+
