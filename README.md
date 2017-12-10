@@ -44,7 +44,7 @@ I define here the name of my function i will call, the name of my variable and t
 
 I need to defined the differents utterances that Alexa need to undersantand
 
-~~~javascript
+~~~text
 
 WhatsMyTask what's my task for {day}
 WhatsMyTask what is my task for {day}
