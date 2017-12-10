@@ -13,7 +13,7 @@ I make this in differents steps which i will explain here
 So let's start and go to the Amazon Dev console (after some "creating account's steps") and create a New Alexa skill
 
  
-![Alexa logo](http://jice.lavocat.name/blog/images/posts/2017/tutoriel_amazon_alexa/alexa_skill_dev_console.png)
+![Alexa step1](http://jice.lavocat.name/blog/images/posts/2017/tutoriel_amazon_alexa/alexa_skill_dev_console.png)
 
 
 Here I enter some informations like **Name** and **Invocation Name** and create my skill
@@ -199,7 +199,11 @@ I create differents events and some default functions witch retrun a question if
 
 Here I have to make sure that my function get the `Kit Alexa Skill` and can save it. In the Alexa console I reseigne the **ARN id** to make the link between Skill and Lambda.
 
+![Alexa link](https://raw.githubusercontent.com/benjy344/alexa_getTask/master/img/img1.png)
+
 
 ## Step 4 : Testing
 
 Finaly I can test my skill with the `Service Simulator` and appreciate the Alexa's anwser 😄
+
+![Alexa testing](https://raw.githubusercontent.com/benjy344/alexa_getTask/master/img/img2.png)
